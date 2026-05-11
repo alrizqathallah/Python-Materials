@@ -1,0 +1,1 @@
+print("Eksekusi via terminal berhasil!")
